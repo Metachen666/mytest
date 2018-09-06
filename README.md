@@ -1,2 +1,2 @@
 # mytest
-first learing github
+first learning github
